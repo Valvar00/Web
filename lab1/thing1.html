@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <meta name="keywords" content="shop, things, sell, quality, index, main, love">
+    <meta name="description" content="The best shop">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Thing1</title>
+  </head>
+  <body>
+    <h2><a href="index.html">Go to the main page</a></h2>
+    <h1>So, Thing#1:</h1>
+    <img src="1.jpg" width="300" height="300"><br>
+    <h3>Amount: 3</h3>
+    <h3>Price: 3 $</h3>
+    <h3>Fill in the form to order this item</h3>
+    <form>
+      <fieldset>
+        <legend>Contact Details</legend>
+        <label for="firstName">First Name:</label>
+        <input type="text" name="firstName" id="firstName">
+        <label for="lastName">Last Name:</label>
+        <input type="text" name="lastName" id="lastName">
+        <label for="email">Email:</label>
+        <input type="email" name="email" id="email">
+      </fieldset>
+      <fieldset>
+        <legend>Order details</legend>
+        <label for="qty">Desired quantity:</label>
+        <input type="number" name="qty" id="qty">
+        <label for="address">Address:</label>
+        <textarea rows="3" cols="30" name="address" id="address"></textarea>
+      </fieldset>
+      <fieldset>
+        <legend>Support details</legend>
+        <p>Contact with me by:</p>
+        <input type="radio" name="contact" id="message">
+        <label for="message">Message</label>
+        <input type="radio" name="contact" id="phone">
+        <label for="phone">Phone</label>
+        <p>Call me at:</p>
+        <input type="checkbox" name="call" id="morning">
+        <label for="morning">9-11 AM</label>
+        <input type="checkbox" name="call" id="afternoon">
+        <label for="afternoon">13-15</label>
+        <input type="checkbox" name="call" id="evening">
+        <label for="evening">17-19</label>
+      </fieldset>
+
+      <input type="submit" value="Submit">
+      <input type="reset" value="Reset">
+    </form>
+  </body>
+</html>

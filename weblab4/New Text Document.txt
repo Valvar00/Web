@@ -1,0 +1,354 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Limpon</title>
+	<style>
+	h1 {
+	font-size: 80px;
+	color:#192b59;
+	font-weight: 600;
+	letter-spacing: -2.5px;
+	line-height: 1.1;
+	max-width: 600px;
+	margin-bottom: 65px;
+}
+.title-h2{
+	font-size: 50px;
+	font-weight: 600;
+	color:#192b59;
+	line-height:1.2;
+	letter-spacing: -1.5px; 
+}
+
+</style>
+	  <link rel="apple-touch-icon" sizes="57x57" href="img/favicon/apple-touch-icon-57x57.png" data-mce-href="img/favicon/apple-touch-icon-57x57.png">
+  <link rel="apple-touch-icon" sizes="60x60" href="img/favicon/apple-touch-icon-60x60.png" data-mce-href="img/favicon/apple-touch-icon-60x60.png">
+  <link rel="apple-touch-icon" sizes="72x72" href="img/favicon/apple-touch-icon-72x72.png" data-mce-href="img/favicon/apple-touch-icon-72x72.png">
+  <link rel="apple-touch-icon" sizes="76x76" href="img/favicon/apple-touch-icon-76x76.png" data-mce-href="img/favicon/apple-touch-icon-76x76.png">
+  <link rel="apple-touch-icon" sizes="114x114" href="img/favicon/apple-touch-icon-114x114.png" data-mce-href="img/favicon/apple-touch-icon-114x114.png">
+  <link rel="apple-touch-icon" sizes="120x120" href="img/favicon/apple-touch-icon-120x120.png" data-mce-href="img/favicon/apple-touch-icon-120x120.png">
+  <link rel="apple-touch-icon" sizes="144x144" href="img/favicon/apple-touch-icon-144x144.png" data-mce-href="img/favicon/apple-touch-icon-144x144.png">
+  <link rel="apple-touch-icon" sizes="152x152" href="img/favicon/apple-touch-icon-152x152.png" data-mce-href="img/favicon/apple-touch-icon-152x152.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="img/favicon/apple-touch-icon-180x180.png" data-mce-href="img/favicon/apple-touch-icon-180x180.png">
+  <link rel="icon" type="image/png" href="img/favicon/favicon-32x32.png" sizes="32x32" data-mce-href="img/favicon/favicon-32x32.png">
+  <link rel="icon" type="image/png" href="img/favicon/android-chrome-192x192.png" sizes="192x192" data-mce-href="img/favicon/android-chrome-192x192.png">
+  <link rel="icon" type="image/png" href="img/favicon/favicon-96x96.png" sizes="96x96" data-mce-href="img/favicon/favicon-96x96.png">
+  <link rel="icon" type="image/png" href="img/favicon/favicon-16x16.png" sizes="16x16" data-mce-href="img/favicon/favicon-16x16.png">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css">
+	<link href="https://fonts.googleapis.com/css?family=Open+Sans:400,600,700,800" rel="stylesheet">
+	<link rel="stylesheet" href="css/style.css">
+</head>
+<body style="color:red;
+	font-size: 16px;
+	font-weight: 400px;
+	line-height: 26px;">
+<div class="page-header"> <!--start of first block-->
+	<div class="wrap">
+		<a href=""></a>
+			<ul class="nav">
+				<li><a href="" class="nav-item">HOME</a></li>
+				<li><a href="" class="nav-item">FEATURES</a></li>
+				<li><a href="" class="nav-item">VIDEO</a></li>
+				<li><a href="" class="nav-item">SCREENS</a></li>
+				<li><a href="" class="nav-item">PRICING</a></li>
+				<li><a href="" class="nav-item">TEAM</a></li>
+				<li><a href="" class="btn-primary">FREE TRIAL</a></li>
+			</ul>
+		</div>
+	<div class="wrap">
+		<h1>Best Software Landingpage</h1>
+		<div class="btn-group">
+			<a class="btn-primary" href="">Get started now</a>
+			<a class="btn-secondary" href="">Learn more</a>
+		</div> <!--end of first block-->
+	</div>
+</div>
+<div class="page-company"><!-- start of 2nd block-->
+	<ul>
+		<li></li>
+		<li></li>
+		<li></li>
+		<li></li>
+	</ul>
+</div><!--end of 2nd block-->
+<div  class="page-grid"><!--3d block-->
+	<div class="grid">
+		<h2><span>Features</span>Best Features Ever Seen  </h2>
+		<div class="grid-item">
+			<div></div>
+			<h3>Well Documented</h3>
+			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magni, atque!</p>
+			<a href="">Read More</a>
+		</div>
+		<div class="grid-item">
+			<div></div>
+			<h3>Highly Customizable</h3>
+			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magni, atque!</p>
+			<a href="">Read More</a>
+		</div>
+		<div class="grid-item">
+			<div></div>
+			<h3>Mobile Friendly Design</h3>
+			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magni, atque!</p>
+			<a href="">Read More</a>
+		</div>
+		<div class="grid-item">
+			<div></div>
+			<h3>Responsive Design</h3>
+			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magni, atque!</p>
+			<a href="">Read More</a>
+		</div>
+		<div class="grid-item">
+			<div></div>
+			<h3>24/7 Online Support</h3>
+			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magni, atque!</p>
+			<a href="">Read More</a>
+		</div>
+		<div class="grid-item">
+			<div></div>
+			<h3>Easy To Edit</h3>
+			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Magni, atque!</p>
+			<a href="">Read More</a>
+		</div>
+		<div>
+			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Deserunt, blanditiis voluptates quas voluptatem, eius assumenda.</p>
+			<p><span>Rosalina Pong</span> - Founder, uithemes </p>
+		</div>
+	</div>
+</div><!-- end of 3d block-->
+<div class="page-trial"><!--start of 4th block-->
+	<div class="wrap">
+		<h2><span>Subscribe</span>Sign Up For A Trial</h2>
+		<p>Create your free account now & get 30 days free trial. No credit card required</p>
+		<input type="email" placeholder="Enter your email address">
+		<button class="btn-primary" type="submit">Subscribe</button>
+	</div>
+	<img src="img/robot.png" alt="robot">
+</div><!-- end of 4th block-->
+<div  class="page-features"><!--5th block-->
+	<div>
+		<div></div>
+		<h2 bgcolor="#afafaf">Grab Your  Software
+With Amazing  Features</h2>
+		<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum.</p>
+		<dl>
+			<dt>01. Clean Design</dt>
+			<dd>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum.</dd>
+			<dt>02. Easy To Customize</dt>
+			<dd>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum.</dd>
+		</dl>
+	</div>
+</div>
+<div class="page-facts"><!--block 6-->
+	<div>
+		<h2 class="title-h2"><span>Fun Facts</span>Some Fun Facts About Dashboard</h2>
+		<ul class="list-stat">
+			<li><span>53K</span>Layouts </li>
+			<li><span>10K</span>Projects</li>
+			<li><span>12K</span>Cup Coffee</li>
+			<li><span>120</span>Awards</li>
+		</ul>
+	</div>
+</div>
+<div style="background-color: green" class="page-video"><!--block 7-->
+	<div>
+		<h2>Meet With Future Landningpage</h2>
+		<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum.</p>
+		<p>Available Now</p>
+		<ul>
+			<li><a href="" target="_blank"></a> </li>
+			<li><a href=""target="_blank"></a> </li>
+		</ul>
+	</div>
+	<img src="img/video-icon.png" alt="video">
+	
+</div>
+<div class="page-started"><!--block 8-->
+	<div>
+		<div></div>
+		<h2>Limpon Is Suitable For
+Anytype LandingPage</h2>
+		<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum.</p>
+		<a class="btn-primary" href="">Get Started Now</a>
+	</div>
+	
+</div>
+<div class="page-edit"><!--block9-->
+	<div>
+		<div></div>
+		<h2>Easy To Edit &
+Very Easily Control</h2>
+		<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum.</p>
+		<a class="btn-primary" href="">Learn More</a>
+	</div>
+
+	
+</div>
+<div class="page-screenshots"><!--block10-->
+	<h2 class="title-40"><span>screen preview</span>Screenshot With Details </h2>
+	<img class="screen" src="img/bg-image10.png" alt="Screen">
+</div>
+<div class="page-clients">
+	<div class="wrap">
+		<h2><span>testimonials</span>Our Happy Clients </h2>
+		<div class="box-clients">
+			<div>
+				<p>It is a long established fact that a read her will be distracted by the readable content of a page when looking.</p>
+				<p class="name">Rolin B. Mirano</p>
+				<p class="position">ceo, uihub</p>
+			</div>
+			<div>
+				<p>It is a long established fact that a read her will be distracted by the readable content of a page when looking.</p>
+				<p class="name">Rolin B. Mirano</p>
+				<p class="position">ceo, uihub</p>
+			</div>
+			<div>
+				<p>It is a long established fact that a read her will be distracted by the readable content of a page when looking.</p>
+				<p class="name">Rolin B. Mirano</p>
+				<p class="position">ceo, uihub</p>
+			</div>	
+		</div>
+	</div>
+</div>
+<div class="page-plan">
+	<div class="wrap">
+		<h2 class="title-40"><span>our plans</span>Pricing Plans </h2>
+			<div class="box-price">
+				<div class="box-price-item">
+					<h3><span></span>Free<span></span></h3>
+					<p><strong>starter</strong></p>
+					<ul>
+						<li>Unlimited users Active</li>
+						<li>1 GB Bandwidth Speed</li>
+						<li>256 MB Memory Card</li>
+						<li>Free Domain Name</li>
+						<li>Free Hosting Name</li>
+						<li>24x7 Online Support</li>
+					</ul>
+					<a class="btn-info" href="">Choose Plan</a>
+				</div>
+				<div class="box-price-item active">
+					<h3><span>$</span>90<span class="mo">/mo</span></h3>
+					<p><strong>starter</strong></p>
+					<ul>
+						<li>Unlimited users Active</li>
+						<li>1 GB Bandwidth Speed</li>
+						<li>256 MB Memory Card</li>
+						<li>Free Domain Name</li>
+						<li>Free Hosting Name</li>
+						<li>24x7 Online Support</li>
+					</ul>
+					<a class="btn-primary" href="">Choose Plan</a>
+				</div>
+				<div class="box-price-item">
+					<h3><span>$</span>350<span class="mo">/mo</span></h3>
+					<p><strong>starter</strong></p>
+					<ul>
+						<li>Unlimited users Active</li>
+						<li>1 GB Bandwidth Speed</li>
+						<li>256 MB Memory Card</li>
+						<li>Free Domain Name</li>
+						<li>Free Hosting Name</li>
+						<li>24x7 Online Support</li>
+					</ul>
+					<a class="btn-info" href="">Choose Plan</a>
+				</div>
+			</div>
+	</div>
+</div>
+<div class="page-team">
+	<div class="wrap">
+		<h2 class="title-h2"><span>angels</span>Our Team</h2>
+		<div class="box-team">
+			<div>
+			<table>
+        <tr>
+          <th>First Name</th>
+          <th>Last Name</th>
+          <th>Age</th>
+          <th>Position</th>
+        </tr>
+        <tr>
+          <td>Richard</td>
+          <td>Thompson</td>
+          <td>36</td>
+          <td>Founder</td>
+        </tr>
+        <tr>
+          <td>Wayne</td>
+          <td>Smith</td>
+          <td>30</td>
+          <td>Designer</td>
+        </tr>
+        <tr>
+          <td>John</td>
+          <td>Leen</td>
+          <td>35</td>
+          <td>Developer</td>
+        </tr>
+        <tr>
+          <td>Brad</td>
+          <td>Leen</td>
+          <td>29</td>
+          <td>Developer</td>
+        </tr>
+        <tr>
+          <td>Jennifer</td>
+          <td>Watson</td>
+          <td>37</td>
+          <td>Team Leader</td>
+        </tr>
+      </table>
+
+			</div>
+		</div>
+	</div>
+</div>
+<div class="page-form">
+	<img id = "image" src="img/trial.png" alt="team">
+	<h2>Start Your Free Trial No Need Credit Card.</h2>
+	<form action="">
+		<input type="text" placeholder="Enter your name here">
+		<input type="email" placeholder="Enter your email here">
+		<textarea name="textMessage" placeholder="Enter your message here"></textarea>
+		<button class="btn-primary" type="submit"><span></span>Submit now</button>
+	</form>
+</div>
+<a href="https://www.w3schools.com">w3schools.com</a>
+<a href="http://www.disney.com" target="_blank">disney.com</a>
+<a href="http://www.wikipedia.org" target="_top">wikipedia.org</a>
+<div class="footer">
+	<div>
+		<p>Made With Love & Comyright By - <a href="">Limpon</a></p>
+		<ul class="social">
+			<li><a href="" target="_blank"></a> </li>
+			<li><a href="" target="_blank"></a> </li>
+			<li><a href="" target="_blank"></a> </li>
+			<li><a href="" target="_blank"></a> </li>
+			<li><a href="" target="_blank"></a> </li>
+		</ul>
+	</div>
+</div>
+<div style="background-image:url(https://ichef.bbci.co.uk/news/624/cpsprodpb/1530E/production/_107489768_wilbur.jpg);background-position: top;background-repeat: no-repeat;">
+	<p>HERE</p>
+	<p>LOOK</p>
+	<p>!!!</p>
+	<p>HERE</p>
+	<p>LOOK</p>
+	<p>!!!</p>
+	<p>HERE</p>
+	<p>LOOK</p>
+	<p>!!!</p>
+	<p>HERE</p>
+	<p>LOOK</p>
+	<p>!!!</p>
+	<img class="kot b" src="https://ichef.bbci.co.uk/news/624/cpsprodpb/1530E/production/_107489768_wilbur.jpg" alt="kot" >
+	<div class="descr">
+		<h1>Данная эксклюзия является подмножеством астрациональных 
+   супремативных монотенных федоний кадонарного экстрафазория.</h1>
+   </div>
+</div>
+
+</body>
+</html>
